@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e928497-d1f6-44bd-b0c0-7cb3a26275cf" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Java_Dev/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/src/Quiz_project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/src/Quiz_project/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Dev/src/Quiz_project/QuestionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quiz_project/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quiz_project/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quiz_project/QuestionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4e928497-d1f6-44bd-b0c0-7cb3a26275cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "vcs.Mercurial"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -94,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735802796396</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1735803812751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735803812751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
